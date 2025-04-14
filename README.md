@@ -1,5 +1,5 @@
 #  Server Performance Stats
-A bash script to analyse basic server performance stats.
+A bash script to analyse basic server performance stats and login info
 ## Output
 1. Failed login attempts
 2. Logged in users
