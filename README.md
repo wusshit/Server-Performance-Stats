@@ -1,5 +1,5 @@
 #  Server Performance Stats
-A bash script to analyse basic server performance stats and login info                     
+A bash script to analyse basic server performance stats and login info 
 This script provides several system monitoring and diagnostic capabilities that are particularly useful in production environments for maintaining system health and security
 ## Output
 1. Failed login attempts
